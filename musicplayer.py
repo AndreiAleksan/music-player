@@ -8,7 +8,6 @@ notes = {
     "G" : pygame.mixer.Sound("notes/G3.wav"),
     "A" : pygame.mixer.Sound("notes/A3.wav"),
     "B" : pygame.mixer.Sound("notes/B3.wav")
-    "-" : 
 }
 
 file_name = input("Please input the path of the text file you wish to play \n")
