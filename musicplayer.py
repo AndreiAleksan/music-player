@@ -26,7 +26,7 @@ for character in read_file:
 
     if character in notes:
         notes[character].play()
-        time.sleep(0.3)
+        time.sleep(0.2)
 
     elif character == '-':
-        time.sleep(0.5)
+        time.sleep(0.4)
